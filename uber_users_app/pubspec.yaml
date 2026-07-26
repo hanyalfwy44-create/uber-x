@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  google_maps_flutter:
-  connectivity_plus: 
+google_maps_flutter: ^2.10.0
+connectivity_plus: 
   firebase_auth:
   cloud_firestore:
   firebase_database:
